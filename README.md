@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **YannisDelmas/YannisDelmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Je suis enseignant-chercheur à l’[Université de Poitiers](https://www.univ-poitiers.fr/).
+
+Mon enseignement concerne principalement le développement web.
+Mes recherches actuelles principales sont à cheval sur l’Épistémologie-histoire des sciences et des technique et
+les Sciences de l’information et de la communication et portent sur l’histoire du numérique et ses usages.
+J’ai également travaillé sur la Logique quantique et sur l’histoire des université en Europe.
+Par ailleurs, j’ai plusieurs engagements sociétaux.
+
+Pour en savoir plus, n’hésitez pas à aller voir ma [page personnelle](https://delmas-rigoutsos.nom.fr/).
